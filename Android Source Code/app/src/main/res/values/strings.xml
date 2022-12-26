@@ -1,0 +1,38 @@
+<resources>
+
+    <string name="app_name">Nordx VPN</string>
+    <string name="nav_header_title">Premium VPN</string>
+    <string name="share_link">https://play.google.com/store/apps/details?id=com.inapp.vpn</string>
+    <string name="term_link">https://indratech.in</string>
+    <string name="oneconnect_key">8fveXaeMX8xq68gx2Qo66WsZKh7H19VV7Z</string>
+    <bool name="ads_switch">true</bool>
+    <bool name="facebook_list_ads">false</bool>
+    <bool name="admob_list_ads">true</bool>
+    <!--vip subscription period prices-->
+    <string name="n1">MONTHLY</string>
+    <string name="n2">3 MONTHS</string>
+    <string name="n3">6 MONTHS</string>
+    <string name="n4">1 YEARL</string>
+    <string name="tech_one_month"> $1.99</string>
+    <string name="tech_three_months"> $3.99</string>
+    <string name="tech_six_months"> $6.99</string>
+    <string name="tech_twelve_months"> $12.99</string>
+    <!--vip subscription period prices-->
+    <string name="kBps">kB/s</string>
+    <string name="MBps">MB/s</string>
+    <string name="kbps">kb/s</string>
+    <string name="Mbps">Mb/s</string>
+    <string name="plus99">99+</string>
+    <string name="dash">-</string>
+    <string name="banner_ad_unit" translatable="false">ca-app-pub-3940256099942544/6300978111</string> <!--DEMO DATA -->
+    <string name="connecting">Connecting</string>
+    <string name="wait">Please wait</string>
+    <string name="auth">Authenticating</string>
+    <string name="recon">Reconnecting</string>
+    <string name="paused">Paused</string>
+    <string name="nonetwork">No Network</string>
+    <string name="disconnected">Not Connected</string>
+    <string name="connected">Connected</string>
+    <string name="assign_ip">Assigning IP</string>
+    <string name="config">Getting Configurations</string>
+</resources>
