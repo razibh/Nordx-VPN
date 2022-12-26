@@ -2,7 +2,7 @@
 
     <string name="app_name">Nordx VPN</string>
     <string name="nav_header_title">Premium VPN</string>
-    <string name="share_link">https://play.google.com/store/apps/details?id=com.inapp.vpn</string>
+    <string name="share_link">your Link</string>
     <string name="term_link">https://indratech.in</string>
     <string name="oneconnect_key">8fveXaeMX8xq68gx2Qo66WsZKh7H19VV7Z</string>
     <bool name="ads_switch">true</bool>
